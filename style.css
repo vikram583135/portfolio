@@ -24,24 +24,26 @@ img{
     border-radius: 10px;
 }
 #navbar{
-    height: 100px;
+    height: 6.25rem;
     background-color: #214E34;
    
 }
 #vikram
 {
     border-radius: 50%;
-    height: 80px;
-    width: 80px;
-   margin-top: 10px;
-   margin-right: 220px;
+    height: 5rem;
+    width: 5rem;
+   margin-top: 0.625rem;
+   margin-right: 13.75rem;
 
 }
 .navitem{
-    margin-right: 150px;
+    margin-right: 9.375rem;
     color: #d9d9d9;
     
 }
 table{
-    padding-left: 600px;
+ display: flex;
+ justify-content: center;
+
 }
